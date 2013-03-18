@@ -28,4 +28,6 @@ public class GitTest{
 	// edit after amended again and again
 	
 // try amend commit again again again  asdsadf
+	
+
 }
