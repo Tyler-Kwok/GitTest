@@ -25,5 +25,6 @@ public class GitTest{
 // amended
 	
 	// edit after amended
+	// edit after amended again
 
 }
