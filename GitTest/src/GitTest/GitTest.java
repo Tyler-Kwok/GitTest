@@ -15,5 +15,6 @@ public class GitTest{
 
 	// commit 5
 	// commit 6a
+	// commit 7a
 
 }
