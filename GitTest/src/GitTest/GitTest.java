@@ -22,5 +22,6 @@ public class GitTest{
 	// commit 10
 	// commit 11
 	// commit 12
+	// new commit 13
 
 }
