@@ -23,5 +23,7 @@ public class GitTest{
 	// commit 11
 	// commit 12
 // amended
+	
+	// edit after amended
 
 }
