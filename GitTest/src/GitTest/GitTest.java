@@ -23,5 +23,9 @@ public class GitTest{
 	// commit 11
 	// commit 12
 // amended
+	
+	// edit after amended
+	// edit after amended again and again
+	
 // try amend commit again again again  asdsadf
 }
