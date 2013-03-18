@@ -6,4 +6,6 @@ public class GitTest{
 	// commit 1
 	// add step 3
 	// commit 2
+	// add step 4
+	// commit 3
 }
