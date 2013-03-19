@@ -5,5 +5,6 @@ public class GitTest{
 	//local commitd
 	//work on master
 	//add sth
+	//new idea
 
 }
