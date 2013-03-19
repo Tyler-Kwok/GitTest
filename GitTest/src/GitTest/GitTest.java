@@ -12,4 +12,5 @@ public class GitTest{
 	//checkin 1
 	//checkin 2
 	//checkin 3
+	//left merge test
 }
