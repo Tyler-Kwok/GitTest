@@ -11,4 +11,5 @@ public class GitTest{
 	//right rebase test
 	//checkin 1
 	//checkin 2
+	//checkin 3
 }
