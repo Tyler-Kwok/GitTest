@@ -8,4 +8,5 @@ public class GitTest{
 	//right 2
 	//left 4
 	//left 5
+	//right rebase test
 }
