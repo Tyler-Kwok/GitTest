@@ -6,6 +6,6 @@ public class GitTest{
 	// do sth
 	// left 1
 	// right update 5
-
+	// right update 6
 
 }
