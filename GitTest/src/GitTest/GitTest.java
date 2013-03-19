@@ -7,5 +7,6 @@ public class GitTest{
 	// left 1
 	// right update 5
 	// right update 6
+	// right update 7
 
 }
