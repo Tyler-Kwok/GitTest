@@ -7,5 +7,6 @@ public class GitTest{
 	//add sth
 	//new idea
 	//new idea 2
+	//new idea 3
 
 }
