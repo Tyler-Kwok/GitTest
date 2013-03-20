@@ -6,5 +6,6 @@ public class GitTest{
 	//work on master
 	//add sth
 	//new idea
+	//new idea 2
 
 }
